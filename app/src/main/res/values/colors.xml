@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue200">#64B6ED</color>
+    <color name="blue_500">#37A8F3</color>
+    <color name="blue_700">#0099ff</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="less_white">#C3DDED</color>
+    <color name="transparent_white">#591E1D1D</color>
+    <color name="transparent_red">#19DF0F0F</color>
+
+
+    <color name="grey">#938F8F</color>
+
+    <color name="animal">#A49F9C</color>
+    <color name="bird">#573212</color>
+    <color name="god">#4D4D4D</color>
+
+    <color name="naturrebg">#5D3821</color>
+    <color name="car">#A6BBC1</color>
+    <color name="funny">#4B643A</color>
+
+    <color name="motorbike">#090A0B</color>
+    <color name="places">#E0E5EF</color>
+    <color name="sports">#D0D80A</color>
+
+</resources>
